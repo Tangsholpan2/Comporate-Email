@@ -25,3 +25,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
+
+
+### Technologies
+- Technology 1
+- Technology 2
+_______
+
+## How to Use
+
+### Initialization
+
+### API References
+
+```html
+<p>Some code here</p>
+```
