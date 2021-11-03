@@ -55,7 +55,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 _____
 
-## Author Info
+## nfo
 
 -Instagram - [@conn.ect.kz](https://instagram.com/conn.ectkz?utm_medium=copy_link)
 -WhatsApp - 
